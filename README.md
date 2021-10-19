@@ -10,7 +10,22 @@ Antoine Charette
 
 ## Links to Application Deployment
 
+### Branch
+
+#### dev
+
+[Heroku](https://antoine-server-deploy-dev.herokuapp.com/)
+[Actions Page](https://github.com/DevAOC/server-development-practice/actions/runs/1357224609)
+[PR](https://github.com/DevAOC/server-development-practice/pull/1)
+
+#### main
+
+[Heroku](https://antoine-server-deploy-prod.herokuapp.com/)
+[Actions Page](https://github.com/DevAOC/server-development-practice/actions/runs/1357224609)
+
 ## Include Embedded UML
+
+<img src="./images/lab-1-uml.png" alt="lab-1-uml" />
 
 ## Routes
 

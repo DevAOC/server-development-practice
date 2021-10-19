@@ -3,6 +3,7 @@
 // at this point app === 'undefined'
 const app = require("../app.js");
 const supertest = require("supertest");
+const { expect, it } = require("@jest/globals");
 
 // this object can make mocked HTTP requests to an express exported at /app.js
 const request = supertest(app);
