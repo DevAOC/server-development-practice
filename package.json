@@ -1,5 +1,5 @@
 {
-  "name": "server-development-practice",
+  "name": "express-server",
   "version": "1.0.0",
   "description": "Created by Antoine Charette",
   "main": "index.js",
@@ -8,17 +8,9 @@
     "test": "jest --verbose --coverage",
     "test:watch": "jest --watch"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/DevAOC/server-development-practice.git"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/DevAOC/server-development-practice/issues"
-  },
-  "homepage": "https://github.com/DevAOC/server-development-practice#readme",
   "dependencies": {
     "dotenv": "^10.0.0",
     "express": "^4.17.1",
